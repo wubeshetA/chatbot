@@ -19,4 +19,4 @@ cd Backend
 python main.py
 ```
 
-To view a hosted version go to [breast-cancer-bot](https://crops-chat-bot.streamlit.app/)
+To view a hosted version, go to [crop-diseases](https://crop-diseases.streamlit.app/)
