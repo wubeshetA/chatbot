@@ -1,5 +1,5 @@
 ## Bert ChatBot
-- This chatbot answers questions concerning Breast Cancer, ie, it's causes, symptoms and what it is in details, and many more
+- This chatbot answers questions concerning crop disease.
 
 ### To run the chatbot, follow the steps below:
  
@@ -19,4 +19,4 @@ cd Backend
 python main.py
 ```
 
-To view a hosted version go to [breast-cancer-bot](https://chat-bot-bcancer.streamlit.app/)
+To view a hosted version go to [crops-chat-bot](https://crops-chat-bot.streamlit.app/)

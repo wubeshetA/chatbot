@@ -13,11 +13,9 @@ ENDPOINT1 = '/api/predict'
 # ENDPOINT2 = '/train'
 # ENDPOINT3 = '/addQuestion'
 
-# st.image('breastcancer.jpg', width=750)
 url ='https://www.greenlife.co.ke/wp-content/uploads/2022/04/Fall-Armyworm-Greenlife-1566x783-1.jpg'
 
 st.image(url, width=750)
-# st.header("Breast Cancer Chat-Bot")
 st.title("Crop Diseases Chat-Bot")
 
 isYes = False
