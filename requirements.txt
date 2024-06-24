@@ -1,4 +1,5 @@
 fastapi
+tf-keras 
 joblib
 jsonschema
 keras
