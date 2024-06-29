@@ -1,5 +1,5 @@
 ## Bert ChatBot
-- This chatbot answers questions concerning Breast Cancer, ie, it's causes, symptoms and what it is in details, and many more
+- This chatbot answers questions related to crop diseases.
 
 ### To run the chatbot, follow the steps below:
  
