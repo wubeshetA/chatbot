@@ -1,4 +1,4 @@
-## Bert ChatBot
+## ChatBot
 - This chatbot answers questions related to crop diseases.
 
 ### To run the chatbot, follow the steps below:
